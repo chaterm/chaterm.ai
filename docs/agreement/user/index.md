@@ -23,11 +23,22 @@ Any free features and services provided by Chaterm should not be considered as W
 
 We may charge fees for certain features and services provided, with specific details subject to the information publicly announced by us at that time. You shall pay the relevant fees according to the billing standards and methods published by us if you use the charged services.
 
+The subscription fee for the Service and any other charges incurred (such as taxes and transaction fees) will be charged to your selected payment method on the calendar day corresponding to the date you first paid for the Service, in accordance with the billing cycle you actively choose (including but not limited to monthly, quarterly, or annual cycles, if you select the automatic renewal option). We will authorise your payment method in anticipation of future subscription charges once you have subscribed.
+
 For functions that are currently not charged, we reserves the right to unilaterally change the content, service period, and service standards of the currently non-charged services based on actual circumstances, and users understand and accept such changes.
 
 Prior to any modifications, changes, or the initiation of fees, we will issue notifications or announcements on the relevant service pages. If you refuse to pay, you will not be able to continue using the charged features within the service.
 
 Authorization/activation information contained in software products (including but not limited to activation codes, passwords, etc.) may be leaked and used by other users to register accounts. Such products are special goods that do not support unreasonable return. If you need any consultation or assistance due to product quality or other issues, please contact us via email at: support@chaterm.ai.
+
+Paid Subscription
+
+Your membership is for a pre-determined duration as agreed when you subscribe. Depending on your selection, it may thereafter automatically renew on the billing cycle you actively choose (including but not limited to monthly, quarterly, or annual cycles) until terminated. You must have a device that supports the Platform and internet access in order to view the Service Content. You will also need to provide a current, valid, accepted method of payment (which may be updated from time to time). If you select the automatic renewal option, in order to avoid further billing of charges for the Services, you must cancel your membership at least 24 hours prior to the commencement of the relevant renewal period. We may suspend the charged services you enjoy if your method of payment is declined and will reactivate such service once you have settled the outstanding amount.
+Subscription plans may be offered by us directly or in partnership with select third parties. We are not responsible for any products or services provided by such third parties. Please be aware that different subscription plans may have additional terms, such as special offers, and these are disclosed to you upon sign-up or through other communications.
+
+Cancellation
+
+You can cancel your subscription to the Services at any time. You will have access to the Services until the date your paid-up subscription ceases. We do not issue partial refunds or credits for termination of Services mid-billing cycle. If you have signed up for the Services via a third party, you may need to terminate through that third party (for example, if you have subscribed through an in-app store payment method). The method of terminating your service varies by provider, such as switching off ‘auto-renew’ in your third party account settings.
 
 **4.Intellectual Property Rights**
 
