@@ -11,9 +11,9 @@ tags:
   - Copilot
 ---
 
-To improve K8S voice command recognition accuracy on Chaterm's mobile client, and reduce the rate of misrecognition that generic ASR models often suffer in SRE scenarios due to their lack of domain-specific priors for terms like `kubectl` and `ConfigMap`.
+To improve K8S voice command recognition accuracy, and reduce the rate of misrecognition that generic ASR models often suffer in SRE scenarios due to their lack of domain-specific priors for terms like kubectl and ConfigMap.
 
-This post describes how we synthesized roughly 30,000 domain-specific voice samples using Qwen3-ASR, combined text decoupling with a balanced replay strategy for LoRA fine-tuning, and reduced the OPS domain CER from roughly 24% down to roughly 6%, while largely preserving the model's general-purpose recognition capability.
+This post describes how we synthesized domain-specific voice samples, combined text decoupling with a balanced replay strategy for LoRA fine-tuning, and reduced the OPS domain CER from roughly 24% down to roughly 6%, while largely preserving the model's general-purpose recognition capability.
 
 ---
 
